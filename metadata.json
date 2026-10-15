@@ -1,0 +1,6 @@
+{
+  "name": "고등학교 분자 운동 가상 실험실 (Molecular Motion Simulator)",
+  "description": "고등학생을 위한 기체 분자 운동론, 상태 변화, 기체 법칙(보일·샤를), 확산 및 브라운 운동 대화형 물리 시뮬레이터",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
